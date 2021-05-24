@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adubey8720
+- 👋 Hi, I’m Abhishek (@adubey8720)
 - 👀 I’m interested in everything Python
 - 🌱 I’m currently learning Go, AWS
 
